@@ -17,6 +17,7 @@ graphs<br/>
 dynamic-programming<br/>
 binary-trees<br/>
 binary-search-trees<br/>
+greedy-algorithm<br/>
 trie<br/>
 segment-trees<br/>
 difference-array<br/>
