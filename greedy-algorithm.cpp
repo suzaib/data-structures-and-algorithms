@@ -619,6 +619,11 @@ bool cmp_fk(const pair<int,int> &p,const pair<int,int> &q){
     return n>m;
 }
 
+//We can write a better comparator than that
+bool compare(const pair<int,int> &p,const pair<int,int> &q){
+    return (1LL*p.first*q.second>1LL*p.second*q.first);
+}
+
 double fractionalKnapsack(vector<pair<int,int>> &arr,int maxWt){
     int n=arr.size();
     if(n==0 || maxWt<=0) return 0.0;
@@ -657,9 +662,6 @@ double fractionalKnapsack(vector<pair<int,int>> &arr,int maxWt){
 //We also distort the array, so that much space is used
 //Time Complexity will be O(n+nlogn)
 //Space Complexity will be O(n)
-
-
-
 
 
 int main(){
