@@ -785,3 +785,7 @@ bool wildcardMatching(string &s1,string &s2){
 //Time Complexity will be O(mn)
 //Space Complexity will be O(m)
 
+
+int main(){
+    return 0;
+}
