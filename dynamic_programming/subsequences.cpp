@@ -895,3 +895,8 @@ int rodCutting(int n,vector<int> &cost){
 //Space is used by a single dp array of size n
 //Time Complexity will be O(n2)
 //Space Complexity will be O(n)
+
+
+int main(){
+    return 0;
+}
