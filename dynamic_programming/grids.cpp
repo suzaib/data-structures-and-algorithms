@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 //2D Dynamic Programming
 //Ninja Training
 //Brute Force
