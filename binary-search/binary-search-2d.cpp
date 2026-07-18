@@ -1,3 +1,6 @@
+#include<bits/stdc++.h>
+using namespace std;
+
 //This file contains binary search questions on 2d arrays
 
 //Unless stated otherwise, the space complexity of the solutions is O(1), that is constant space
