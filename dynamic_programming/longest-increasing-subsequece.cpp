@@ -411,4 +411,7 @@ int numberOfLIS(vector<int> &arr){
 //Time Complexity will be O(n2+n)
 //Space Complexity will be O(2n)
 
+int main(){
+    return 0;
+}
 
